@@ -4,3 +4,7 @@ c=45
 d=55
 c=a-b
 print (c)
+c=a+b
+print (c)
+c=a/b
+print (c)
