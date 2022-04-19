@@ -6,7 +6,9 @@ d=55
 if(s==0):
     c=a-b
     print (c)
-c=a+b
-print (c)
-c=a/b
-print (c)
+if(s==0):
+    c=a+b
+    print (c)
+if(s==0):
+    c=a/b
+    print (c)
